@@ -273,8 +273,7 @@
 		
  	     }
 	 
-	 n( 'customize_preview_init' , array( 'MyTheme_Customize' , 'live_preview' ) );
-	
+	 }
 	
 	
 	
